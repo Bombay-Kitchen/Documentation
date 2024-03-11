@@ -10,9 +10,9 @@ The color schema for Bombay Kitchen is a crucial aspect of its visual identity. 
 **Color Samples:**
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="Bombay%20Kitchen%20Color%20Schema/Color%20Sample%20-%201.png" alt="Color Sample 1" width="30%">
-    <img src="Bombay%20Kitchen%20Color%20Schema/Color%20Sample%20-%202.png" alt="Color Sample 2" width="30%">
-    <img src="Bombay%20Kitchen%20Color%20Schema/Color%20Sample%20-%203.png" alt="Color Sample 3" width="30%">
+    <img src="Bombay%20Kitchen%20Color%20Schema/Color%20Sample%20-%201.png" alt="Color Sample 1" width="33%">
+    <img src="Bombay%20Kitchen%20Color%20Schema/Color%20Sample%20-%202.png" alt="Color Sample 2" width="33%">
+    <img src="Bombay%20Kitchen%20Color%20Schema/Color%20Sample%20-%203.png" alt="Color Sample 3" width="33%">
 </div>
 
 ---

@@ -15,9 +15,18 @@ Date Range: March 1, 2024, to April 30, 2024
 Please be advised that modifications to the project's logos and loaders are strictly prohibited until proper permissions are obtained from the brand owners. Any alterations or adjustments require thorough discussions with stakeholders, including brand owners and partners.
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/Bombay-Kitchen/Documentation/blob/c4372c65d0682a30e66687b022131b0ea67a693f/Official%20Logos/BKLogoNoBG.png" alt="Color Sample 1" width="31%">
-    <img src="https://github.com/Bombay-Kitchen/Documentation/blob/c4372c65d0682a30e66687b022131b0ea67a693f/Official%20Logos/BKLogoWhiteBG.png" alt="Color Sample 2" width="31%">
+    <img src="https://github.com/Bombay-Kitchen/Documentation/blob/c4372c65d0682a30e66687b022131b0ea67a693f/Official%20Logos/BKLogoNoBG.png" alt="Logo - 1" width="31%">
+    <img src="https://github.com/Bombay-Kitchen/Documentation/blob/c4372c65d0682a30e66687b022131b0ea67a693f/Official%20Logos/BKLogoWhiteBG.png" alt="Logo - 2" width="31%">
     <img src="" alt="Color Sample 3" width="31%">
+</div>
+
+## Brands UI Design and Inspirations
+These are the Design's our Bombay Kitchen wedsite is Inpired from, these Designs are taken from Dribble Designes Platform, These Designs Structures will be framed for the UI of BK Website with Brand Colors and Necessary Fields.
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/Bombay-Kitchen/Documentation/blob/c0c7649e2a6c03b0923b259deb7ef95c26543581/Website%20UI%20Designs/BKWebsiteInspiration%20-%202.png" alt="Design Idea - 3" width="31%">
+    <img src="https://github.com/Bombay-Kitchen/Documentation/blob/c0c7649e2a6c03b0923b259deb7ef95c26543581/Website%20UI%20Designs/BKWebsiteInspiration%20-%201.jpeg" alt="Design Idea - 1" width="31%">
+    <img src="https://github.com/Bombay-Kitchen/Documentation/blob/c0c7649e2a6c03b0923b259deb7ef95c26543581/Website%20UI%20Designs/BKWebsiteInspiration%20-%203.jpeg" alt="Design Idea - 2" width="31%">
 </div>
 
 ## Color Schema - V.01 - March/24

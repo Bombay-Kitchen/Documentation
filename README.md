@@ -34,9 +34,10 @@ Please be advised that modifications to the project's logos and loaders are stri
 These are the Design's our Bombay Kitchen wedsite is Inpired from, these Designs are taken from Dribble Designes Platform, These Designs Structures will be framed for the UI of BK Website with Brand Colors and Necessary Fields.
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/Bombay-Kitchen/Documentation/blob/c0c7649e2a6c03b0923b259deb7ef95c26543581/Website%20UI%20Designs/BKWebsiteInspiration%20-%202.png" alt="Design Idea - 3" width="31%">
-    <img src="https://github.com/Bombay-Kitchen/Documentation/blob/c0c7649e2a6c03b0923b259deb7ef95c26543581/Website%20UI%20Designs/BKWebsiteInspiration%20-%201.jpeg" alt="Design Idea - 1" width="31%">
-    <img src="https://github.com/Bombay-Kitchen/Documentation/blob/c0c7649e2a6c03b0923b259deb7ef95c26543581/Website%20UI%20Designs/BKWebsiteInspiration%20-%203.jpeg" alt="Design Idea - 2" width="31%">
+    <img src="https://github.com/Bombay-Kitchen/Documentation/blob/c0c7649e2a6c03b0923b259deb7ef95c26543581/Website%20UI%20Designs/BKWebsiteInspiration%20-%202.png" alt="Design Idea - 3" width="22%">
+    <img src="https://github.com/Bombay-Kitchen/Documentation/blob/c0c7649e2a6c03b0923b259deb7ef95c26543581/Website%20UI%20Designs/BKWebsiteInspiration%20-%201.jpeg" alt="Design Idea - 1" width="22%">
+    <img src="https://github.com/Bombay-Kitchen/Documentation/blob/c0c7649e2a6c03b0923b259deb7ef95c26543581/Website%20UI%20Designs/BKWebsiteInspiration%20-%203.jpeg" alt="Design Idea - 2" width="22%">
+    <img src="https://github.com/Bombay-Kitchen/Documentation/blob/2061445350357de5fe4c2df3049f1ced5ea2dbdc/Website%20UI%20Designs/BKWebsiteInspiration%20-%204.png" alt="Design Idea - 2" width="22%">
 </div>
 
 ## Color Schema - V.01 - March/24

@@ -17,7 +17,7 @@ Please be advised that modifications to the project's logos and loaders are stri
 <div style="display: flex; justify-content: space-between;">
     <img src="https://github.com/Bombay-Kitchen/Documentation/blob/c4372c65d0682a30e66687b022131b0ea67a693f/Official%20Logos/BKLogoNoBG.png" alt="Logo - 1" width="31%">
     <img src="https://github.com/Bombay-Kitchen/Documentation/blob/c4372c65d0682a30e66687b022131b0ea67a693f/Official%20Logos/BKLogoWhiteBG.png" alt="Logo - 2" width="31%">
-    <img src="" alt="Color Sample 3" width="31%">
+    <img src="https://github.com/Bombay-Kitchen/Documentation/blob/ce78053223fb6a78548deb364b95e1e5f46b6d92/Official%20Logos/Logo%20Gif%20Loader.gif" alt="Color Sample 3" width="31%">
 </div>
 
 ## Brands UI Design and Inspirations

@@ -8,6 +8,16 @@ Date Range: March 1, 2024, to April 30, 2024
 
 ![Bombay Kitchen Official Devlopment and Project TimeLine](https://github.com/Bombay-Kitchen/Documentation/blob/c4372c65d0682a30e66687b022131b0ea67a693f/Roadmap%20TimeLine/Bombay%20Kitchen%20Dev%20Roadmap.jpg)
 
+
+## Figma Design (Official) Bombay Kitchen Website Design
+
+This repository contains the design files for the Bombay Kitchen website. You can view and edit the design in Figma by [clicking here](https://www.figma.com/file/JVr8o8fQim2Vpk8Rcm2TGq/Bombay-Kitchen-Webiste-Design?type=design&node-id=0%3A1&mode=design&t=YT5rC1VSadEjAhAe-1).
+
+```html
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FJVr8o8fQim2Vpk8Rcm2TGq%2FBombay-Kitchen-Webiste-Design%3Ftype%3Ddesign%26node-id%3D0%253A1%26mode%3Ddesign%26t%3DYT5rC1VSadEjAhAe-1" allowfullscreen></iframe>
+```
+
+
 ## Project and Brand Logo's and Loaders 
 
 ⚠️ **Important Note: Changes to Logos and Loaders**
